@@ -1,0 +1,10 @@
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.pdb
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/Interface.csprojResolveAssemblyReference.cache
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Form1.resources
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/Interface.csproj.GenerateResource.Cache
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/Interface.csproj.CoreCompileInputs.cache
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.exe
+/Users/cjdkl/Desktop/I2C/WindowsFormsApplication1/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.pdb

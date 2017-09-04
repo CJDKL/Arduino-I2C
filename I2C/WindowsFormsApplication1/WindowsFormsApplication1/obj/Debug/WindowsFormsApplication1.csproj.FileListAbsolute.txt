@@ -1,0 +1,9 @@
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LabAdmin\Documents\Visual Studio 2015\Projects\I2C\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
